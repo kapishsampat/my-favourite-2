@@ -1,0 +1,34 @@
+body{
+  
+  text-align: center;
+    background: linear-gradient(#ff0000 0%,#ff6a00 10%, #ffe600 20%, #b3ff00 30% ,#59ff00 40%, #00ff4c 50%, #00ff95 60%, #00ffff 70%, #00a2ff 80%, #1e00ff 90%,#ff00c8 100%);
+}
+h1{
+  color:limegreen;
+}
+#wic{
+    color:darkblue}
+.menu{
+    position:fixed;
+    background:lime;
+    width:100%;
+    margin-top:0px;
+    top:0px;
+    z-index:10;
+    color:aqua;
+    }
+.links{
+    display:inline;
+    padding-left:30px;
+    padding-right:25px;
+    font-size:50px;
+    font-family:fantasy;
+    color:lime;
+    text-decoration: none;
+
+    
+}
+.links:hover{
+    text-decoration:underline;
+    font-size: 40px;
+    
